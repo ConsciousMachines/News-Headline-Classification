@@ -1,4 +1,4 @@
-# Financial Statement Classification API on AWS
+# News Classification API on AWS
 
 This ML Engineering / MLOps project aims to deploy an NLP model using AWS cloud services for inference using an API. The model provides reasonable sentiment extraction from news sources such as [Reuters](https://www.reuters.com/), [Bloomberg](https://www.bloomberg.com/), [Financial Times](https://www.ft.com/), etc... 
 
